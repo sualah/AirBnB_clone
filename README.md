@@ -47,11 +47,7 @@ Our command interpreter looks like a mini shell and allow us manage the objects 
 
 - [Examples and Usage](#ExamplesandUsage)
 - [Installation](#installation)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
 - [Team](#team)
-- [Support](#support)
-- [License](#license)
 
 
 ---
@@ -127,46 +123,9 @@ IMPORTANT: The project was created in UBUNTU 14.04.3 LTS and Python 3.4.3.
 
 ---
 
-## Documentation 
-
-<a href="https://intranet.hbtn.io/rltoken/Fx9HXIjmGzbmET4ylYg2Rw">`cmd module`</a><br>
-<a href="https://intranet.hbtn.io/rltoken/jKl9WFpKA-fPt7_guv9_3Q">`packages`</a><br>
-<a href="https://intranet.hbtn.io/rltoken/eaQ6aELbdqb0WmPddhD00g">`uuid module`</a><br>
-<a href="https://intranet.hbtn.io/rltoken/_ySDcgtfrwLkTyQzYHTH0Q">`datetime`</a><br>
-<a href="https://intranet.hbtn.io/rltoken/QX7d4D__xhOJIGIWZBp39g">`unittest module`</a><br>
-<a href="https://intranet.hbtn.io/rltoken/jQd3P_uSO0FeU6jlN-z5mg">`args/kwargs`</a><br>
-<a href="https://intranet.hbtn.io/rltoken/WPlydsqB0PG0uVcixemv9A">`Python test cheatsheet`</a><br>
----
-
-## Contributing
-
-> To get started...
-
-### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine using 
-
-### Step 2
-
-- **HACK AWAY!** 🔨🔨🔨
-
-### Step 3
-
-- 🔃 Create a new pull request using. 
----
-
 ## Team
 
 <a href="https://github.com/sualah">`Sualah`</a>
-
-
-
-
----
 
 ## License
 
