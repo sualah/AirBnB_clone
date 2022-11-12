@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat 12 Nov, 2022
-@author: Salifu
+Created on Fri Jun  5 15:43:09 2020
+@author: meco
 """
 import sys
 import unittest
@@ -39,7 +39,7 @@ class TestPlace(unittest.TestCase):
         """
         Test that test_place.py file conform to PEP8
         """
-        pep8syle = pep8.StyleGuide(quiet=True)
+        pep8style = pep8.StyleGuide(quiet=True)
         result = pep8style.check_files(['tests/test_models/test_place.py'])
         self.assertEqual(result.total_errors, 0,
                          "Found code style errors (and warnings).")
@@ -229,4 +229,4 @@ class TestPlace(unittest.TestCase):
         self.P.save()
         time2 = self.P.updated_at
         self.assertNotEqual(time1, time2)
-        self.assertEqual(type(time1), datetime)t
+        self.assertEqual(type(time1), datetime)
