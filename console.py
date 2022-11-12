@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat 12, 2022
+Created on Sat 12 November 2022
 @author: Salifu Abdullai
 """
 import cmd
@@ -210,6 +210,7 @@ class HBNBCommand(cmd.Cmd):
             print("** value missing **")
             return False
         return True
+
 
 if __name__ == '__main__':
     HBNBCommand().cmdloop()
